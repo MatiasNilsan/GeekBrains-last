@@ -1163,7 +1163,7 @@ input[type=radio] {
   min-height: 489px;
   width: 1920px;
   background-color: #555555;
-  background-image: url(/img/partners_backg.jpg);
+  background-image: url(../img/partners_backg.jpg);
 }
 
 .partners-link__img {
