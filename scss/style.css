@@ -1163,7 +1163,7 @@ input[type=radio] {
   min-height: 489px;
   width: 1920px;
   background-color: #555555;
-  background-image: url(/img/partners_backg.jpg);
+  background-image: url(../img/partners_backg.jpg);
 }
 
 .partners-link__img {
@@ -1795,11 +1795,11 @@ input[type=radio] {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
-  .partners-img {
+  .partners-link__img {
     width: 150px;
     margin: 0 20px 20px 0;
   }
-  .partners-img:hover {
+  .partners-link__img:hover {
     -webkit-transform: scale(1.2);
             transform: scale(1.2);
   }
